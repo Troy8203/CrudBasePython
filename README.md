@@ -25,8 +25,9 @@ project/
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/Troy8203/CrudBasePython.git
+cd CrudBasePython
+code .
 ```
 
 ### 2. Configurar el Entorno Virtual y dependencias
